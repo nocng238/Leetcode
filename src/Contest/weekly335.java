@@ -38,4 +38,10 @@ public class weekly335 {
 
     }
 
+    public int findValidSplit(int[] nums) {
+        int res = 0;
+
+        return res;
+    }
+
 }
