@@ -1,10 +1,17 @@
-import java.math.BigInteger;
+package Contest;
+
 import java.util.HashSet;
 
-public class algos {
-    public static int gcd(int a, int b) {
-        BigInteger res = BigInteger.valueOf(a).gcd(BigInteger.valueOf(b));
-        return res.intValue();
+public class weekly356 {
+    public static void main(String[] args) {
+        
+    }
+
+    static public int countCompleteSubarrays(int[] nums) {
+        var res= 0;
+//        var
+
+        return res;
     }
     public static int countDistinctElements(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
