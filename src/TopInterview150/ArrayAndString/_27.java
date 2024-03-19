@@ -1,4 +1,4 @@
-package TopInterview150;
+package TopInterview150.ArrayAndString;
 
 import java.util.ArrayList;
 import java.util.List;

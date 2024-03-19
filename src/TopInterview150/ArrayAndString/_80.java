@@ -1,4 +1,4 @@
-package TopInterview150;
+package TopInterview150.ArrayAndString;
 
 public class _80 {
     public static void main(String[] args) {
