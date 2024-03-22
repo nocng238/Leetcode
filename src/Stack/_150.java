@@ -1,10 +1,10 @@
-package Contest.Stack;
+package Stack;
 
 import java.util.Stack;
 
 public class _150 {
     public static void main(String[] args) {
-        String tokens[] = { "4", "13", "5", "/", "+" };
+        String tokens[] = {"4", "13", "5", "/", "+"};
         System.out.println(evalRPN(tokens));
     }
 

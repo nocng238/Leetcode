@@ -1,4 +1,4 @@
-package Contest.Stack;
+package Stack;
 
 import java.util.Stack;
 
